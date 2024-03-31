@@ -17,7 +17,7 @@ This is a simple implementation of the classic FizzBuzz game written in Java.
 4. See the output to find out whether your number is a Fizz, Buzz, FizzBuzz, or just the number itself.
 
 ## Requirements
-- Java Development Kit (JDK) installed on your machine.
+- Java Development Kit (JDK) or IntelliJ IDEA installed on your machine.
 
 ## Usage
 1. Open a terminal or command prompt.
